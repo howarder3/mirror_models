@@ -13,7 +13,8 @@ This repository is a personal collection of links to various publicly available 
 | `face_detection_yunet_2023mar.onnx` | Apache 2.0 | [Download Link](https://github.com/opencv/opencv_zoo/raw/main/models/face_detection_yunet/face_detection_yunet_2023mar.onnx) |
 | `face_recognition_sface_2021dec.onnx` | Apache 2.0 | [Download Link](https://github.com/opencv/opencv_zoo/raw/main/models/face_recognition_sface/face_recognition_sface_2021dec.onnx) |
 | `res10_300x300_ssd_iter_140000.caffemodel` | Apache 2.0 | [Download Link](https://github.com/opencv/opencv_3rdparty/raw/dnn_samples_face_detector_20170830/res10_300x300_ssd_iter_140000.caffemodel) |
-| `deploy.prototxt` | Apache 2.0 | [Download Link](httpss://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/deploy.prototxt) |
+| `deploy.prototxt` | Apache 2.0 | [Download Link](https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/deploy.prototxt) |
+
 
 ### YOLO Models
 
